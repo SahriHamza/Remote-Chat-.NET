@@ -1,0 +1,5 @@
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\ClassLibrary1\obj\Debug\RemotableObjects.csprojResolveAssemblyReference.cache
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

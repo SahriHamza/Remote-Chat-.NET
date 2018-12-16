@@ -1,0 +1,8 @@
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\Server\bin\Debug\Server.exe.config
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\Server\bin\Debug\Server.exe
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\Server\bin\Debug\Server.pdb
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\Server\bin\Debug\Interface.dll
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\Server\bin\Debug\Interface.pdb
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\Server\obj\Debug\Server.exe
+C:\Users\hamza\documents\visual studio 2015\Projects\RemoteChat\Server\obj\Debug\Server.pdb
